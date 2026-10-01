@@ -16,6 +16,8 @@ Disk space analyzer for Windows with visualization via **Treemap** and **Sunburs
 - **Treemap** — древовидная карта с подсветкой файлов по расширениям
 - **Sunburst** — круговая диаграмма структуры папок
 - Интерактивное выделение веток при наведении на дерево
+- Реализована проверка SMART дисков
+- Бенчмарк скорости диска
 - Тёмная / светлая тема
 
 (en)
@@ -23,6 +25,8 @@ Disk space analyzer for Windows with visualization via **Treemap** and **Sunburs
 - **Treemap** - tree map with file extension highlighting
 - **Sunburst** - pie chart of folder structure
 - Interactive highlighting of branches when hovering over a tree
+- Implemented SMART disk check
+- Disk speed benchmark
 - Dark/light theme
 
 
